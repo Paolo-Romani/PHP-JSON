@@ -1,13 +1,5 @@
 {
     "marca": "Ferrari",
     "modello":"SF90",
-    "anno":"2021",
-    "caratteristiche":[
-        {
-            "consumo":6.1,
-            "cilindrata":3990,
-            "potenza massima":780,
-            "peso":1600
-        }
-    ]
+    "anno":"2021"
 }
