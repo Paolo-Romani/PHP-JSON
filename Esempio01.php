@@ -6,5 +6,4 @@
     foreach($macchina as $k=>$v){
         echo "<p>$k : $v</p>";
     }
-    
 ?>
